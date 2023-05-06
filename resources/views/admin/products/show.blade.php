@@ -26,7 +26,7 @@
                                     </th>
                                 @empty
                                     <th>
-                                        <span class="badge badge-warning">no image</span>
+                                        <span class="badge badge-warning"></span>
                                     </th>
                                 @endforelse
                             </tr>

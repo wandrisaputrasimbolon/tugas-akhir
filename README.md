@@ -2,23 +2,23 @@
 
 ## Screenshots
 
-![preview img](/preview.png)
+![preview img](/Preview.png)
 
 ## Run Locally
 
-Clone the project
+Clone the project-akhir
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/ecommerce-youtube.git project-name
+  git clone https://github.com/abdulaziz-m5u/ecommerce-youtube.git project-akhir
 ```
 
 Go to the project directory
 
 ```bash
-  cd project-name
+  cd project-akhir
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   Copy .env and edit database credentials there
 
 ```bash
     composer install
@@ -37,6 +37,8 @@ Go to the project directory
 ```
 
 #### Login
+
+admin
 
 -   email = admin@example.com
 -   password = 123
