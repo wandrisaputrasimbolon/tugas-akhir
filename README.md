@@ -1,44 +1,9 @@
-# Laravel 9 & React js - Ecommerce application
+#anggota kelompok
+#wandri saputra simbolon
+#wahyudi
+#figo
+#simphony
 
-## Screenshots
 
-![preview img](/Preview.png)
-
-## Run Locally
-
-Clone the project-akhir
-
-```bash
-  git clone https://github.com/abdulaziz-m5u/ecommerce-youtube.git project-akhir
-```
-
-Go to the project directory
-
-```bash
-  cd project-akhir
-```
-
--   Copy .env and edit database credentials there
-
-```bash
-    composer install
-```
-
-```bash
-    php artisan key:generate
-```
-
-```bash
-    php artisan artisan migrate:fresh --seed
-```
-
-```bash
-    php artisan storage:link
-```
-
-#### Login
-
-admin
-
--   email = admin@example.com
--   password = 123
+#link vidio : https://youtu.be/Q1HIqK8deVw
+![33649970-1cbd-447b-a5da-abf4c79101a3](https://user-images.githubusercontent.com/132760779/236636573-74ca9f27-cd9a-4317-8cb7-4dbc68c0e7e3.jpg)
