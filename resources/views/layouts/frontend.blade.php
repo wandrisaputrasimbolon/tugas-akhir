@@ -7,7 +7,6 @@
     <meta name="keywords" content="Ogani, unica, creative, html" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="icon" href="publi/frontend/asset/logo.png">
     <title>e-commerce sederhana</title>
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap"
@@ -35,7 +34,7 @@
     <div class="humberger__menu__overlay"></div>
     <div class="humberger__menu__wrapper">
         <div class="humberger__menu__logo">
-            <a href="#"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
+            <a href="#"><img src="{{ asset('frontend/img/1.png') }}" alt="" /></a>
         </div>
         <div class="humberger__menu__cart">
             <ul>
@@ -162,7 +161,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="/"><img src="{{ asset('img/vendor-4.jpg') }}" alt="" /></a>
+                        <a href="/"><img src="{{ asset('img/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -243,7 +242,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo">
-                            <a href="./index.html"><img src="{{ asset('img/logo.png') }}"
+                            <a href="./index.html"><img src="{{ asset('img/1.png') }}"
                                     alt="" /></a>
                         </div>
                         <ul>
